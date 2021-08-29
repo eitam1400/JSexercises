@@ -16,4 +16,15 @@ solutionB = ((-b - Math.sqrt((Math.pow(b,2))-(4ac))) / (2a));
 console.log(solutionA, solutionB)
 
 
-
+\\third exercise
+const num = -8;
+let absolute;
+if(num<0)
+{
+    absolute=(-num);
+}
+else
+{
+    absolute=num;
+{
+console.log(absolute);
